@@ -23,7 +23,7 @@ Developing a system that measure the distance and display it on LCD. Drivers: DI
 ## Schematic Capture
 
 <p align="center">
-  ![image](https://github.com/faatthy/Distance-Measuring-System/assets/110846097/a01a2c1e-c311-4f37-9e2c-1686bc68b14e)
+  <img src="https://github.com/faatthy/Distance-Measuring-System/assets/110846097/a01a2c1e-c311-4f37-9e2c-1686bc68b14e">
 
 </p>
 
