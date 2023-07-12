@@ -7,7 +7,7 @@ Developing a system that measure the distance and display it on LCD. Drivers: DI
    - [Main Components](#Main-Components)
    - [Drivers](#Drivers)
    - [Tools](#Tools)
-- [Demo](#Demo)
+
 ## Description
 - Developing a system that measure the distance and display it on LCD.
 ## Features
@@ -41,7 +41,3 @@ Developing a system that measure the distance and display it on LCD. Drivers: DI
 - Eclipse SDK
 - Proteus
 
-## Demo
-<p align="center">
-  <img src="https://github.com/Mostafa-Medhat/Distance-Measuring-System/blob/main/docs/Demo.png?raw=true">
-</p>
