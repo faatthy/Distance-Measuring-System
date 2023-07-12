@@ -16,7 +16,7 @@ Developing a system that measure the distance and display it on LCD. Drivers: DI
   <img src="https://github.com/Mostafa-Medhat/Temperature-Controlled-Fan-System/blob/main/docs/layered%20model.png?raw=true">
 </p>
 
-- Use ATmega16 Microcontroller with frequency 8Mhz.
+- Use ATmega32 Microcontroller with frequency 16MHz.
 - Measure the distance using the Ultrasonic sensor HC-SR04.
 - The LCD should display the distance value.
 
